@@ -34,10 +34,10 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 # Authors
-## Kaushik Jadhav
+## Sourav Panja
 <ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
+<li>Github:https://github.com/Souravpanja7797</li>
+<li>Medium:https://medium.com/@Souravpanja7797</li>
+<li>LinkedIn:https://www.linkedin.com/in/sourav-panja-331267190/</li>
+<li>Portfolio:http://Souravpanja7797.github.io/</li>
 </ul>
